@@ -43,7 +43,7 @@ describe 'form page' do
 
    # expect(Coupon.last.store).to eq("Quip")
  # end
-#end
+end
 
 describe 'Show page' do
   before do
